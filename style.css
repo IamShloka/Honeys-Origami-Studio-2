@@ -1,0 +1,37 @@
+h1 {
+    color:darkcyan ;
+}
+h2{
+    color :darkcyan;
+}
+h3{
+    color:darkcyan;
+}
+.item {
+  
+  
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+   
+    justify-content : space-evenly;
+}
+
+.site-description{
+    display: flex;
+    flex-direction: column;
+    justify-content: first baseline;
+}
+
+
+.header{
+    background-color: wheat;
+    display: flex;
+    border : solid;
+    border-color: darkcyan;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
